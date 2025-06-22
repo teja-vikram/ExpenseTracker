@@ -1,7 +1,7 @@
 # ExpenseTracker
 About : ExpenseTrcaker is an Rest API used for tracking all your Incomes along with the Expenses along with Balance amount and recent spendings.
 
-Technology Used : SpringBoot Framework with Java 17 and Hibernate JPA alomg with Java 8 features like Lambda and Optional Class along with streams.
+Technology Used : SpringBoot Framework with Java 17 and Hibernate JPA alomg with Java 8 features like Lambda and Optional Class along with streams built using Maven.
 
 It has different end points to fetch expenses, add expenses and add income, fetch expenses and form Statistics.
 
